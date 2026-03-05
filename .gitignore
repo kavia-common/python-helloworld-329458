@@ -4,3 +4,4 @@
 /deb_dist/
 /dist/
 /helloworld.egg-info/
+.file_activity_report.json
